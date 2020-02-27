@@ -2,7 +2,7 @@
 
 <hr/>
 
-* [C++基础]
+## C++基础
 
     * [进程空间分配](https://www.cnblogs.com/ladawn/p/8449399.html)
     
@@ -12,13 +12,13 @@
     
     * [c++继承中的内在布局](https://www.oschina.net/question/565065_72355)
 
-* [算法]
+## 算法
 
     * [排序算法](https://www.cnblogs.com/itsharehome/p/11058010.html)
 
     * [综合](https://blog.csdn.net/qiaoer2017/article/details/82715028)
 
-* [ZooKeeper]
+## ZooKeeper
 
     * [通知机制](https://www.cnblogs.com/shamo89/p/9787176.html)
     
@@ -28,7 +28,8 @@
     
     * [如何选取主leader](https://www.jianshu.com/p/fb527a64deee)
 
-* [REDIS]
+## REDIS
+
     * [redis的高可用](https://blog.csdn.net/qq_28410283/article/details/89197156)
     
     * [主从复制如何实现](https://blog.csdn.net/sinat_32366329/article/details/81266568)
@@ -62,7 +63,7 @@
         (5) 主从复制不要用图状结构，用单向链表结构更为稳定，即：Master <- Slave1 <- Slave2 <- Slave3…
         这样的结构方便解决单点故障问题，实现Slave对Master的替换。如果Master挂了，可以立刻启用Slave1做Master，其他不变。
 
-* [MYSQL]
+## MYSQL
 
     * [SQL如何优化](https://vdisk.weibo.com/s/muWOT)
     
@@ -88,7 +89,7 @@
     
     * [left join、inner join、right join](https://blog.csdn.net/lp_cq242/article/details/79942457)
 
-* [网络]
+## 网络
 
     * [浏览器发起一次请求的过程](https://www.cnblogs.com/xuxinstyle/p/9382506.html)
 
