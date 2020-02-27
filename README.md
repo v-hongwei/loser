@@ -5,6 +5,8 @@
 ## C++基础
 
 * [进程空间分配](https://www.cnblogs.com/ladawn/p/8449399.html)
+
+* [c++从编译到生成可执行文件的流程](https://www.cnblogs.com/mrsandstorm/p/5701530.html)
     
 * [c++内存各种变量存储区域](https://blog.csdn.net/jirryzhang/article/details/79518408)
     
