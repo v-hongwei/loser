@@ -14,6 +14,8 @@
     
 * [c++继承中的内在布局](https://www.oschina.net/question/565065_72355)
 
+* [c++虚表的位置](https://blog.csdn.net/weixin_42187898/article/details/92615737)
+
 ## 算法
 
 * [排序算法](https://www.cnblogs.com/itsharehome/p/11058010.html)
