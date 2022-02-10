@@ -16,6 +16,8 @@
 
 * [c++虚表的位置](https://blog.csdn.net/weixin_42187898/article/details/92615737)
 
+* [RTTI的实现机制](https://blog.csdn.net/xiangbaohui/article/details/109231333)
+
 ## 算法
 
 * [排序算法](https://www.cnblogs.com/itsharehome/p/11058010.html)
